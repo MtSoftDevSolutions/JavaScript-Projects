@@ -8,7 +8,9 @@ function addNumbers () {
     document.getElementById("addy").innerHTML = (65 + T + "<br>");
 }
 function addNumbers2 () {
-    document.getElementbyId("addy2").innerHTML = (65 + N + "<br>");
+    console.log (N)
+    document.getElementById("addy2").innerHTML = (65 + N + "<br>");
+    
 }
 
 function get_Date() {
