@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+.jumbotron {
+    font-family: 'Bebas Neue', cursive, sans-serif;
+    color:#D9D7C7;
+    background-color: #924A36;
+    text-align: center;
+}
+
+.body {
+    background-color: #3A160E;
+}
+
+h2 {
+    font-family: 'Bebas Neue', cursive, sans-serif;
+    font-size: 300px; 
+}
