@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+
+h1, h3 {
+    color:darkturquoise;
+    font-family: 'Lobster', cursive;
+    width:50%;
+    text-align: center;
+}
+.form {
+    width:600px;
+    height:auto;
+    border: 2px solid black;
+    border-radius: 50px;
+    align: center;
+    
+}
+form {
+    margin-left: 40px;
+}

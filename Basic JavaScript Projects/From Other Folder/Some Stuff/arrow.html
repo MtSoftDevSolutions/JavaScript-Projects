@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Arrow Functions</title>
+        <meta name="viewport" content="width=device-width, initial scale=1.0">
+    </head>
+    <body>
+        <p id="changed">A paragraph</p>
+        <button type="button" onclick="myFunction()">Try it</button>
+        <script>
+            var myFunction;
+            myFunction = () => "paragraph changed.";
+            document.getElementById("changed").innerHTML = myFunction();
+        </script>
+    </body>
+</html>
