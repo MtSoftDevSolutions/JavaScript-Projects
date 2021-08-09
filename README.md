@@ -1,10 +1,13 @@
 # JavaScript-Projects
+
+***********************************************************************************
+
 These are some small projects I made using JavaScript
 
 ## Projects
-- Pizza Menu
-- Tic Tac Toe Game
-- Calculator
+- [Pizza Menu](https://github.com/MtSoftDevSolutions/JavaScript-Projects/tree/main/Basic%20JavaScript%20Projects/Pizza%20Project)
+- [Tic Tac Toe Game](https://github.com/MtSoftDevSolutions/JavaScript-Projects/tree/main/Basic%20JavaScript%20Projects/Tic%20Tac%20Toe)
+- [Calculator](https://github.com/MtSoftDevSolutions/JavaScript-Projects/tree/main/Basic%20JavaScript%20Projects/Calculator)
 
 #### Pizza Menu
 
